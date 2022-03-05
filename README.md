@@ -1,0 +1,2 @@
+# studentProfileManagement
+ Django Project
